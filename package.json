@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/DanielCadwell.lwc-kvk2z93a",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve f8H08sdeHoJTmRUgrrM0 --open"
+  }
+}
